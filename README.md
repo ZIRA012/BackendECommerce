@@ -24,7 +24,7 @@ La API de autenticación maneja el registro de usuarios, el inicio de sesión y 
 
 ## Cómo Ejecutar
 
-Instrucciones para ejecutar cada API y los servicios asociados, incluyendo configuraciones de base de datos y dependencias.
+Descarga Cada Api Y ejecutalos de manera Independiente, asegurate de realizar las migraciones necesarias en la base de datos SQL
 
 ---
 
