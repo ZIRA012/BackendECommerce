@@ -7,7 +7,7 @@ Este repositorio contiene todas las APIs y servicios para el sistema de Ecommerc
 - [Product API](#)
 - [Order API](#)
 - [Authentication API](#)
-- [Common Libraries](#)
+- [Gateway API](https://github.com/ZIRA012/ECommerce.ApiGatewaySolution)
 
 ## Descripción del Proyecto
 
