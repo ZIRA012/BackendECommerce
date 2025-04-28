@@ -1,7 +1,7 @@
 # Ecommerce Backend Project
 
 Este repositorio contiene todas las APIs y servicios para el sistema de Ecommerce.
-![Diagrama de arquitectura](./images/diagrama-arquitectura.png)
+![Diagrama de arquitectura](Diagrama ECommerce.jpeg)
 ## APIs:
 - [Product API](#)
 - [Order API](#)
